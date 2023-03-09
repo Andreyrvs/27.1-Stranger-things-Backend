@@ -2,6 +2,8 @@
 
 ## Contexto
 
+1. Eu Criei os arquivos `Dockerfile` e `actions/project.yml`. Tudo exeto os citados acima foram desenvolvidos pela [Trybe](https://www.betrybe.com/)
+
 Este projeto trata-se de adaptar e configurar os projetos Stranger Things Back-end e Fron-end para que seja feito o deploy deles. Você vai colocar os projetos front-end e back-end no ar com o Heroku, utilizando o Docker em ambiente de produção
 
 <!-- 
